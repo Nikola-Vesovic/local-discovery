@@ -1,5 +1,5 @@
 # Local Discovery - AI-Powered Place Exploration
-
+> Built at LauzHack 2025 (Lausanne) — 8th place finish
 An intelligent location discovery application that combines real-world mapping data with AI-generated descriptions and images. Find interesting places near you with rich, contextual information.
 
 ## Features
